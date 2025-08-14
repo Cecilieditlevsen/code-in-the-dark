@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "submit": "scripts/submit.sh",
-    "submit:dry-run": "scripts/dry-run.sh"
+    "submit": "bash ./scripts/submit.sh",
+    "submit:dry-run": "bash ./scripts/dry-run.sh"
   },
   "repository": {
     "type": "git",
